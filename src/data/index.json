@@ -29,23 +29,23 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
+      "title": "Europa",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "/europa"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
+      "title": "Asien",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "/asien"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
+      "title": "Amerika",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "link": "/amerika"
     }
   ],
   "testimonial": [
